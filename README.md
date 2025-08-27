@@ -3,7 +3,7 @@
 A simple **Notes/To-Do App** built with the **MERN stack** (MongoDB, Express, React, Node).  
 You can create, edit and delete notes 
 
-🌐 **Live Demo:** [View App on Render]((https://note-todo-app.onrender.com))
+🌐 Live Demo: https://note-todo-app.onrender.com
 
 ---
 
